@@ -1,26 +1,26 @@
 [profile]
-other = "Profile"
+other = "Profil"
 
 [experience]
-other = "Experience"
+other = "Deneyim"
 
 [volunteer]
-other = "Volunteer Experience"
+other = "Gönüllülük"
 
 [education]
-other = "Education"
+other = "Eğitim"
 
 [references]
-other = "References"
+other = "Referanslar"
 
 [skills]
-other = "Skills"
+other = "Yetenekler"
 
 [languages]
-other = "Languages"
+other = "Diller"
 
 [diplomas]
-other = "Diplomas"
+other = "Diploma"
 
 [interests]
-other = "Interests"
+other = "İlgi Alanları"
